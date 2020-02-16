@@ -1,0 +1,32 @@
+{
+  "name": "music-friday",
+  "version": "1.0.0",
+  "description": "A program to fins out who's turn it is to pick the tunes",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server ./docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cory-paws/music-friday.git"
+  },
+  "keywords": [
+    "music",
+    "friday",
+    "lads",
+    "dad"
+  ],
+  "author": "Mick, Finn and Cory!",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cory-paws/music-friday/issues"
+  },
+  "homepage": "https://github.com/cory-paws/music-friday#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

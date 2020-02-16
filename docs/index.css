@@ -1,0 +1,30 @@
+.who {
+    color: white;
+}
+
+body {
+    background-color: black;
+    color: yellow;
+    font-size: 200px;   
+}
+
+h1 {
+    color: red;
+    font-size: 120px;
+    text-align: center;   
+
+}
+
+p {
+    font-size:100;
+}
+
+.statement {
+    font-size:75;    
+}
+
+#date {
+    font-size: 30px;
+    color: green;
+    text-align: center;
+}
