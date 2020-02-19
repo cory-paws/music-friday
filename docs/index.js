@@ -8,7 +8,7 @@ crew.forEach((member,index) => console.log(index+". "+ member));
 
 const year = [];
 
-let crewNo = 2;
+let crewNo = 1;
 
 for(let x = 0; x < 53; x++){
     year[x] = crew[crewNo];
